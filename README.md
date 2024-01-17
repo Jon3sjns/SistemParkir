@@ -50,6 +50,6 @@
 </p>
 
 # Lain-lain
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jon3sjns.SistemParkir&left_text=My%20Page%20Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Jon3sjns.SistemParkir&left_text=My%20Page%20Visitors)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f496c65726961796f2f6d61726b646f776e2d6261646765733f7374796c653d666f722d7468652d6261646765](https://github.com/Jon3sjns/SistemParkir/assets/45759837/443204cf-874b-4d22-90fb-e8e978595f99)<div align="center">
